@@ -112,12 +112,3 @@ Regarding tags, I've generally avoided them except as a way to group Meeting/Pro
 To add a note, just type something under the header 'Notes:' and add the #KeyNote tag to the line. Navigate back to your Daily Map, and you can see that KeyNote.
 
 I envision leveraging this by jumping into a meeting, using a method like the Cornell Note method and employing active listening. Only add notes for things that truly matter. Address the points during the meeting or recap after the meeting, adding appropriate tags like #Note for a low-level note, #KeyNote for a mid-tier action, and #Important for something with a lasting effect that needs to be remembered. For questions, I use #KeyNote for something to take action on within the next 24 hours, or create a task. If it's something I need to address but won't have time in the next 24 hours, I leverage the #BackLog tag. This approach is extremely subjective and dependent on everyone's own workflow.
-
-#### Conclusion
-Now you have the super bare bones of these notes.
-
-I didn't delve into 'SubTopic,' 'People,' or 'xArchive.' I also haven't outlined how I search for code snippets, manage links, perform basic web scraping and cataloging, or use LLMs like ChatGPT. This is because I'm still figuring out those aspects and modifying how I utilize everything mentioned above.
-
-The method presented here is just one approach to leveraging links—a starting point without having to build everything from scratch, mainly relying on only two plugins: Dataview and Templater. I intend to continually refine this basic setup throughout 2024 to fully understand what I can achieve with just JavaScript, links, planned templates, and some Dataview queries to pull notes of interest.
-
-Before adding more advanced plugins, I believe it's time well spent to comprehend the fundamental functions and establish a clear concept of how to track notes.
